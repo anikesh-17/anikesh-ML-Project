@@ -1,4 +1,4 @@
-Machine Learning Models Web Application
+**Machine Learning Models Web Application**
 Welcome to the Machine Learning Models Web Application repository! This project is developed to showcase multiple machine learning models through a web interface using Flask.
 
 Project Overview
@@ -7,12 +7,15 @@ This repository includes various machine learning models integrated into a web a
 Football Match Predictor: Predicts the outcome of football matches based on team strength data.
 Autocorrect Model: Provides spelling correction suggestions based on a given input word.
 Recommendation System: Suggests products to users based on their ratings and preferences.
-Additional Models: Various other machine learning models and functionalities.
-Features
+Keyboard : Predict the words 
+User based recommendation system : Suggest the product based on the user
+
+**Features**
 Web Interface: A user-friendly interface to interact with the models.
 Real-time Predictions: Get predictions and recommendations instantly.
 Visualization: View and analyze data through visual representations.
-Installation
+
+**Installation**
 Clone the Repository:
 
 bash
@@ -59,16 +62,10 @@ Recommendation System: View product recommendations based on user ratings.
 Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. For any issues or suggestions, please open an issue on GitHub.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Author
 This project was created by Anikesh.
 
-Contact
-For any questions or inquiries, feel free to reach out to me.
-
-Feel free to adjust any sections or details as needed!
 
 
 
