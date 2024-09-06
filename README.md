@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/your-repository.git
+git clone [https://github.com/anikesh-17/anikesh-ML-Project/tree/main]
 Navigate to the Project Directory:
 
 bash
