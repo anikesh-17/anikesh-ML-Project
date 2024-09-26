@@ -4,3 +4,4 @@ numpy
 uvicorn
 streamlit
 textdistance
+nltk
