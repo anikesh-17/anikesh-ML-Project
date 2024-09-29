@@ -1,5 +1,5 @@
 **Machine Learning Models Web Application**
-Welcome to the Machine Learning Models Web Application repository! This project is developed to showcase multiple machine learning models through a web interface using Flask.
+Welcome to the Machine Learning Models Web Application repository! This project is developed to showcase multiple machine learning models through a web interface using Streamlit.
 
 Project Overview
 This repository includes various machine learning models integrated into a web application. The models and functionalities demonstrated are:
